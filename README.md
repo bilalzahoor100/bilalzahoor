@@ -2,13 +2,13 @@
 
 ---
 
-## 🌐 My Portfolio
+## 🌐 Portfolio Website
 
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://bilalzahoor100.github.io/)
 
 ---
 
-## 📫 How to contact me
+## 📫 Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bilalzahoor100@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-zahoor-175859184/)
