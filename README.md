@@ -2,7 +2,7 @@
 
 ---
 
-## 📫 Portfolio
+## 🌐 Portfolio
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://bilalzahoor100.github.io/)
 
